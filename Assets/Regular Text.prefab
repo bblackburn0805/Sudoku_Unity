@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7121415065910064037
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.683672
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.121744
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386485, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386487, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_Text
+      value: You Win!
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386487, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_Anchor
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386487, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_FontSize
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386487, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_Alignment
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386487, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_FontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8074133348408386488, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+      propertyPath: m_Name
+      value: Regular Text
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8074133348408386483, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+    - {fileID: 8074133348408386484, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+    - {fileID: 2910597379558823558, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: ffb6f683821ccec448c50972be159d5f, type: 3}
